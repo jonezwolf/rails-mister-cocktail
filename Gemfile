@@ -6,6 +6,9 @@ ruby '2.5.3'
 # Securtiy dtenv Gem
 gem 'dotenv-rails', groups: [:development, :test]
 
+# Cloudinary Gem
+gem 'cloudinary', '~> 1.9.1'
+
 # SetUp Gems
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3.7'
